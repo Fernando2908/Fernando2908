@@ -23,4 +23,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fernando2908&" alt="fernando2908" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fernando2908&show_icons=true&locale=en&layout=compact" alt="fernando2908" /></p>
+<img align="left" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs?username=fernando2908&show_icons=true&locale=en&layout=compact" alt="fernando2908" />
+
