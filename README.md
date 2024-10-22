@@ -57,13 +57,20 @@
 
 ---
 
-<h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b></h3>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
+### <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=fernando2908&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=00B4D8&bg_color=00000000" alt="GitHub Stats" />
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=fernando2908&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=00B4D8&bg_color=00000000" alt="GitHub Stats" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando2908&theme=transparent&ring=00B4D8&fire=00B4D8&currStreakLabel=FFFFFF&background=00000000" alt="GitHub Streak" />
+    </td>
+    <td style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando2908&theme=transparent&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando2908&theme=transparent&ring=00B4D8&fire=00B4D8&currStreakLabel=FFFFFF&background=00000000" alt="GitHub Streak" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando2908&theme=transparent&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
-
-</div>
