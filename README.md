@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fernando Sierra</h1>
-<h3 align="center">A passionate developer from Puerto Rico🇵🇷</h3>
+<h1 align="center">Hi , I'm Fernando<img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="35"></h1>
+<h3 align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+and+Engineering+Student;&center=true&width=500&height=50"></a>
+</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fernando2908&label=Profile%20views&color=0e75b6&style=flat" alt="fernando2908" /> </p>
