@@ -12,12 +12,11 @@
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 ### <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 25px> About me
-- <p>I'm a Computer Science and Engineering Undergraduate Student at <a href="https://www.uprm.edu/portada/">University of Puerto Rico</a></p>
+- I'm a Computer Science and Engineering Undergraduate Student at <a href="https://www.uprm.edu/portada/">University of Puerto Rico</a>
 - 🔭 **Currently working on:** [La Junta de Planificación Fiscal de Puerto Rico](https://github.com/ouslan/jp-webapp)  
 - 📫 **Reach me at:** [fernando.sierra3@upr.edu](mailto:fernando.sierra3@upr.edu)  
 - 📄 **Check out my [Resume](https://drive.google.com/file/d/1jvrTMmZjsJnQopowH6xEpcdDApAllq8P/view?usp=sharing)**
 
----
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"><b> Connect with Me </b>
 <p align="left">
