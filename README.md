@@ -20,10 +20,15 @@
 
 ### <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="50"><b> Connect with Me </b>
 <p align="left">
-  <a href="https://www.linkedin.com/in/fernandojsierra/" target="_blank">
+  <a href="https://www.linkedin.com/in/fernandojsierra/" target="_blank" style="display: inline-block; margin-right: 10px;">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="30"/>
   </a>
+  <a href="https://www.instagram.com/fernan_sierra" target="_blank" style="display: inline-block;">
+    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="30"/>
+  </a>
 </p>
+
+
 
 ---
 
@@ -113,9 +118,7 @@
 ---
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"><b> Github Stats </b></h3>
-<div align="center" style="display: flex; justify-content: space-between; align-items: center;">
-
+<div align="center" style="display: row; justify-content: space-between; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=fernando2908&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=00B4D8&bg_color=00000000" alt="GitHub Stats" />
-
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando2908&theme=transparent&ring=00B4D8&fire=00B4D8&currStreakLabel=FFFFFF&background=00000000" alt="GitHub Streak" />
 </div>
