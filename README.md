@@ -119,7 +119,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=fernando2908&show_icons=true&theme=transparent&title_color=FFFFFF&text_color=FFFFFF&icon_color=00B4D8&bg_color=00000000" alt="GitHub Stats" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernando2908&theme=transparent&ring=00B4D8&fire=00B4D8&currStreakLabel=FFFFFF&background=00000000" alt="GitHub Streak" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernando2908&theme=transparent&layout=compact&title_color=FFFFFF&text_color=FFFFFF&bg_color=00000000" alt="Top Languages" />
-
 </div>
