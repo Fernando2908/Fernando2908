@@ -81,6 +81,9 @@
   <a href="https://pandas.pydata.org/" target="_blank">
     <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
   </a>
+  <a href="https://pola-rs.github.io/polars-book/" target="_blank">
+    <img src="https://img.shields.io/badge/Polars-3182CE?style=for-the-badge&logo=polars&logoColor=white" alt="Polars" />
+  </a>
 </p>
 
 **Databases:**
